@@ -1,7 +1,7 @@
 # SQL-Project
 SQL project to manage and analyze company data using MySQL.
 
-## Company Management System (SQL Project)
+## Corporate Data Management System (SQL Project)
 
 ## Overview
 This project manages and analyzes company data such as employees, departments, salaries, attendance, and projects using SQL.It demonstrates skills in database creation, relational joins, subqueries, and analytical SQL functions.
